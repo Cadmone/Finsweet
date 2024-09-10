@@ -1,0 +1,214 @@
+@media(max-width:575.98px){
+    .manu-bg button{
+        border: 2px solid rosybrown;
+        color: rosybrown;
+    }
+    .manu1 {
+        width: 60%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      }
+    .Studious1 h2 {
+        padding-top: 80px;
+        font-size: 28px;
+        font-weight: 600;
+        color: #000;
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+      }
+    .Studious2 p {
+        padding-top: 28px;
+        width: 100%;
+    }
+    .Blog1 h2 {
+        padding-top: 58px;
+        font-size: 38px;
+    }
+    .blog2 img{
+        width: 100%;
+    }
+    .blog2 p {
+        padding-top: 12px;
+        width: 100%;
+    }
+    .blog2 h4 {
+        padding-top: 1px;
+        font-size: 20px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .manu-bg button{
+        border: 2px solid rgb(255, 0, 0);
+        color: rgb(250, 3, 3);
+    }
+    .manu1 {
+        width: 40%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      }
+    .Studious1 h2 {
+        padding-top: 58px;
+        font-size: 38px;
+        width: 500px;
+    }
+    .Studious2 p {
+        padding-top: 28px;      
+        width: 500px;
+    }
+    .Blog1 h2 {
+        padding-top: 48px;
+        font-size: 38px;
+    }
+    .blog2 img{
+        width: 100%;
+    }
+    .blog2 p {
+        padding-top: 12px;
+    }
+    .blog2 h4 {
+        font-size: 16px;
+        margin-top: -40px;
+    }
+    .blog2 p {
+        padding-bottom: 20px;
+        width: 100%;
+    }
+    .footer1 p {
+        padding-top: 62px;
+        width: 100%;
+        padding-bottom: 50px;
+      }
+      .footer2-1 h6 {
+        padding-top: 18px;
+        margin-left: 0px;
+        font-size: 20px;
+      } 
+    .footer2-2 h6 {
+        padding-top: 20px;
+        font-size: 18px;
+        padding-left: 60px;
+      }
+    .footer2-1 a {
+        margin-left: 0px;
+        font-size: 12px;
+      }  
+    .footer2-2 a {
+        color: #000;
+        padding-top: 25px;
+        font-size: 14px;
+      }     
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .manu-bg button{
+        border: 2px solid rgb(0, 255, 60);
+        color: rgb(3, 250, 28);
+    }
+    .manu1 {
+        width: 30%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      }
+    .Studious1 h2 {
+        padding-top: 50px;
+        font-size: 38px;
+    }
+    .Studious2 p {
+        width: 650px;
+    }
+    .Blog1 h2 {
+        padding-top: 58px;
+    }
+    .blog2 img{
+        width: 100%;
+    }
+    .blog2 p {
+        padding-top: 12px;
+    }
+    .blog2 h4 {
+        font-size: 20px;
+        width: 300px;
+    }
+    .blog2 p {
+        width: 320px;
+    }
+    .footer1 p{
+        width: 309px;
+    }
+    .footer2-1 h6 {
+        margin-left: 8px;
+        font-size: 16px;
+    }
+    .footer2-1 a {
+        margin-left: 8px;
+        font-size: 14px;
+    }
+    .footer2-2 h6 {
+        font-size: 16px;
+    }
+    .footer2-2 a {
+        font-size: 14px;
+    }
+}
+@media(min-width:991px) and (max-width:1199.98px){
+    .manu-bg ul li {
+        padding: 0 8px !important;
+    }
+    .Studious1 h2 {
+        padding-top: 58px;
+        font-size: 38px;
+    }
+    .Studious2 p {
+        padding-top: 28px;
+    }
+    .Blog1 h2 {
+        padding-top: 68px;
+    }
+    .blog2 img{
+        width: 100%;
+    }
+    .blog2 p {
+        padding-top: 12px;
+    }
+    .blog2 p {
+        width: 280px;
+    }
+    .footer2-1 h6 {
+        margin-left: 8px;
+    }
+    .footer2-1 a {
+        margin-left: 8px;
+    }
+}
+@media(min-width:1200px) and (max-width:1399.98px){
+    .manu-bg ul li {
+        padding: 0 20px !important;
+    }
+    .Blog1 h2 {
+        padding-top: 68px;
+    }
+    .blog2 img{
+        width: 100%;
+    }
+
+    .blog2 p {
+    padding-top: 12px;
+   }
+   .blog2 p {
+    width: 320px;
+   }
+   .blog2 h4 {
+	width: 320px;
+}
+}
+@media(min-width:1400px){
+    
+}

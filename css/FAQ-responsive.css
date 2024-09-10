@@ -1,0 +1,448 @@
+@media(max-width:575.98px){
+    .manu-bg button{
+        border: 2px solid yellow;
+        color: yellow;
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      }
+    .manu1 {
+        width: 60%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .banner1 h6 {
+        padding-top: 56px;
+        text-align: center;
+    }
+    .banner1 h2 {
+        font-size: 38px;
+    }
+    .banner1 p {
+        padding-top: 12px;
+        width: 99%;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .all1 p {
+        padding-top: 26px;
+        font-size: 16px;
+        padding-bottom: 28px;
+        width: 99%;
+        line-height: 35px;
+      }
+      .all2 {
+        height: 250px;
+        width: 100%;
+        margin-left: 0;
+      }
+    .all2 img {
+        top: 12px;
+        left: 22px;
+        width: 90%;
+    }
+    .all-1 h2 {
+        text-align: center;
+    }
+    .all-1 p {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .all-1 a {
+        padding-bottom: 24px;
+        margin-left: 160px;
+    }
+    .all3 {
+        height: 250px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .all3 img {
+        top: 12px;
+        left: 22px;
+        width: 90%;
+    }
+    .all4 {
+        height: 250px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .all4 img {
+        top: 12px;
+        left: 22px;
+        width: 90%;
+    }
+    .all5 {
+        height: 250px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .all5 img {
+        top: 12px;
+        left: 22px;
+        width: 90%;
+    }
+    .all6 {
+        height: 250px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .all6 img {
+        top: 12px;
+        left: 22px;
+        width: 90%;
+    }
+    .all7 {
+        height: 250px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .all7 img {
+        top: 12px;
+        left: 22px;
+        width: 90%;
+    }
+    .together h2 {
+        padding-top: 30px;
+        font-size: 34px;
+        width: 430px;
+    }
+    .together p {
+        width: 98%;
+        padding-bottom: 20px;
+        text-align: center;
+      }
+    .footer1 img {
+        padding-top: 50px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .manu-bg button{
+        border: 2px solid rgb(255, 132, 0);
+        color: rgb(255, 187, 0);
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      }
+    .manu1 {
+        width: 50%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .banner1 h6 {
+        padding-top: 56px;
+        text-align: center;
+    }
+    .banner1 h2 {
+        font-size: 38px;
+    }
+    .banner1 p {
+        padding-top: 12px;
+        width: 500px;
+        padding-bottom: 20px;
+    }
+    .all1 p {
+        padding-top: 26px;
+        font-size: 16px;
+        padding-bottom: 28px;
+    }
+    .all-1{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .all2 {
+        height: 280px;
+        width: 423px;
+        margin-left: 30px;
+    }
+    .all2 img {
+        top: 25px;
+        left: 22px;
+        width: 90%;
+    }
+    .all-1 h2 {
+        text-align: center;
+    }
+    .all-1 p {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .all-1 a {
+
+        margin-left: 0;
+    }
+    .all3 {
+        height: 310px;
+        width: 500px;
+        margin-left: 30px;
+    }
+    .all3 img {
+        top: 22px;
+        left: 22px;
+        width: 90%;
+    }
+    .all4 {
+        height: 280px;
+        width: 423px;
+        margin-left: 30px;
+    }
+    .all4 img {
+        top: 22px;
+        left: 22px;
+        width: 90%;
+    }
+    .all5 {
+        height: 310px;
+        width: 500px;
+        margin-left: 30px;
+    }
+    .all5 img {
+        top: 22px;
+        left: 22px;
+        width: 88%;
+    }
+    .all6 {
+        height: 310px;
+        width: 500px;
+        margin-left: 30px;
+    }
+    .all6 img {
+        top: 22px;
+        left: 22px;
+        width: 90%;
+    }
+    .all7 {
+        height: 310px;
+        width: 500px;
+        margin-left: 30px;
+    }
+    .all7 img {
+        top: 22px;
+        left: 22px;
+        width: 90%;
+    }
+    .together h2 {
+        padding-top: 30px;
+        font-size: 34px;
+        width: 500px;
+    }
+    .together p {
+        width: 500px;
+        padding-bottom: 20px;
+    }
+    .footer1 img {
+        padding-top: 50px;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .manu-bg button{
+        border: 2px solid rgb(0, 221, 255);
+        color: rgb(0, 217, 255);
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      }
+    .manu1 {
+        width: 30%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .banner1 h6 {
+        padding-top: 56px;
+        text-align: center;
+    }
+    .banner1 h2 {
+        font-size: 38px;
+    }
+    .banner1 p {
+        padding-top: 12px;
+        width: 600px;
+        padding-bottom: 20px;
+    }
+    .all1 p {
+        padding-top: 26px;
+        font-size: 16px;
+        padding-bottom: 28px;
+    }
+    .all2 {
+        margin-left: 30px;
+    }
+    .all-1 h2 {
+        text-align: center;
+    }
+    .all-1 p {
+        text-align: center;
+        margin: 0 auto;
+        width: 600px;
+    }
+    .all-1 a {
+        padding-bottom: 24px;
+        margin-left: 260px;
+    }
+    .all3 {
+        margin-left: 30px;
+    }
+    .all4 {
+        margin-left: 30px;
+    }
+    .all5 {
+        margin-left: 30px;
+    }
+    .all6 {
+        margin-left: 30px;
+    }
+    .all7 {
+
+        margin-left: 30px;
+    }
+    .together h2 {
+        padding-top: 30px;
+        font-size: 38px;
+        width: 500px;
+    }
+    .together p {
+        width: 500px;
+        padding-bottom: 20px;
+    }
+    .footer1 p {
+        width: 300px;
+    }
+    .footer2-1 h6 {
+        margin-left: 8px;
+        font-size: 16px;
+    }
+    .footer2-1 a {
+        margin-left: 8px;
+        font-size: 14px;
+    }
+    .footer2-2 h6 {
+        font-size: 16px;
+    }
+    .footer2-2 a {
+        font-size: 14px;
+    }
+}
+@media(min-width:991px) and (max-width:1199.98px){
+    .manu-bg ul li {
+        padding: 0 8px !important;
+    }
+    .all2 {
+        height: 290px;
+        width: 450px;
+    }
+    .all2 img {
+        width: 85%;
+    }
+    .all3 {
+        height: 290px;
+        width: 450px;
+    }
+    .all3 img {
+        width: 85%;
+    }
+    .all4 {
+        height: 290px;
+        width: 450px;
+    }
+    .all4 img {
+        width: 85%;
+    }
+    .all5 {
+        height: 290px;
+        width: 450px;
+    }
+    .all5 img {
+        width: 85%;
+    }
+    .all6 {
+        height: 290px;
+        width: 450px;
+    }
+    .all6 img {
+        width: 85%;
+    }
+    .all7 {
+        height: 290px;
+        width: 450px;
+    }
+    .all7 img {
+        width: 85%;
+    }
+    .all-1 h2 {     
+        font-size: 34px;
+    }
+    .all-1 p {
+        padding-bottom: 14px;
+        width: 400px;
+    }
+    .footer2-1 h6 {
+        margin-left: 15px;
+    }
+    .footer2-1 a {
+        margin-left: 15px;
+    }
+}
+@media(min-width:1200px) and (max-width:1399.98px){
+    .manu-bg ul li {
+        padding: 0 20px !important;
+    }
+    .all2 {
+        height: 350px;
+        width: 560px;
+    }
+    .all2 img {
+        width: 87%;
+    }
+    .all3 {
+        height: 350px;
+        width: 560px;
+    }
+    .all3 img {
+        width: 87%;
+    }
+    .all4 {
+        height: 350px;
+        width: 560px;
+    }
+    .all4 img {
+        width: 87%;
+    }
+    .all5 {
+        height: 350px;
+        width: 560px;
+    }
+    .all5 img {
+        width: 87%;
+    }
+    .all6 {
+        height: 350px;
+        width: 560px;
+    }
+    .all6 img {
+        width: 87%;
+    }
+    .all7 {
+        height: 350px;
+        width: 560px;
+    }
+    .all7 img {
+        width: 87%;
+    }
+    .all-1 p {
+        width: 450px;
+    }
+    .together a {
+        margin-bottom: 48px;
+    }
+    .together h2 {
+        width: 600px;
+    }
+    .together p {
+        width: 462px;
+    }
+}
+@media(min-width:1400px){
+    .all-1 p {
+        width: 500px;
+    }
+}

@@ -1,0 +1,402 @@
+@media(max-width:575.98px){
+    .manu-bg button{
+        border: 3px solid yellow;
+        color: yellow;
+    } 
+    .manu-bg ul li a {
+        text-align: center;
+      } 
+    .manu1 {
+        width: 60%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Pricing1 h2 {
+        padding-top: 58px;
+    }
+    .Pricing1 p {
+        width: 98%;
+    }
+    .Pricing2 {
+        width: 100%;
+    }
+    .questions1 h4 {
+        padding-top: 50px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .questions1 a {
+        padding-left: 25%;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .manu-bg button{
+        border: 3px solid red;
+        color: red;
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      } 
+    
+    .manu1 {
+        width: 38%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Pricing1 h2 {
+        padding-top: 58px;
+    }
+    .Pricing1 p {      
+        width: 500px;
+    }
+    .Pricing3 a { 
+        margin-left: 140px;
+    }
+    .Pricing5 a {
+        margin-left: 140px;
+    }
+    .questions1 h4 {
+        padding-top: 58px;
+        width: 428px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .questions1 a {
+        margin-left: 160px;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .manu-bg button{
+        border: 3px solid rgb(249, 247, 247);
+        color: rgb(250, 247, 247);
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      } 
+    
+    .manu1 {
+        width: 38%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Pricing1 h2 {
+        padding-top: 58px;
+    }
+    .Pricing1 p {      
+        width: 500px;
+    }
+    .Pricing2 h3 {
+        padding-top: 20px;
+        padding-left: 20px;
+        font-size: 38px;
+    }
+    .Pricing2 h5 {
+        padding-top: 10px;
+        padding-left: 20px;
+        font-size: 20px;
+    }
+    .Pricing2 p {
+        padding-top: 5px;
+        width: 200px;
+        padding-left: 20px;
+        font-size: 12px;
+    }
+    .Pricing2-1 img {
+        padding-top: 0px;
+        padding-left: 18px;
+    }
+    .Pricing2-1 p {
+        padding-left: 40px;
+        padding-top: 0px;
+    }
+    .Pricing2-2 img {
+        padding-top: 30px;
+        padding-left: 18px;
+    }
+    .Pricing2-2 p {
+        padding-left: 40px;
+        padding-top: 30px;
+    }
+    .Pricing2-3 img {
+        padding-top: 60px;
+        padding-left: 18px;
+    }
+    .Pricing2-3 p {
+        padding-left: 40px;
+        padding-top: 60px;
+    }
+    .Pricing2-4 img {
+        padding-top: 90px;
+        padding-left: 18px;
+    }
+    .Pricing2-4 p {
+        padding-left: 40px;
+        padding-top: 90px;
+    }
+    .Pricing2-5 img {
+        padding-top: 120px;
+        padding-left: 18px;
+    }
+    .Pricing2-5 p {
+        padding-left: 40px;
+        padding-top: 120px;
+    }
+    .Pricing3 a {     
+        margin-top: 180px;
+        padding: 10px 27px;       
+        margin-left: 50px;      
+        font-size: 10px;
+    }
+    .Pricing2 { 
+        padding-bottom: 260px;
+    }
+    .Pricing4 h3 {
+        padding-top: 20px;
+        padding-left: 20px;
+        font-size: 38px;
+    }
+    .Pricing4 h5 {
+        padding-top: 10px;
+        padding-left: 20px;
+        font-size: 20px;
+    }
+    .Pricing4 p {
+        padding-top: 5px;
+        width: 200px;
+        padding-left: 20px;
+        font-size: 12px;
+    }
+    .Pricing4-1 img {
+        padding-top: 0px;
+        padding-left: 18px;
+    }
+    .Pricing4-1 p {
+        padding-left: 40px;
+        padding-top: 0px;
+    }
+    .Pricing4-2 img {
+        padding-top: 30px;
+        padding-left: 18px;
+    }
+    .Pricing4-2 p {
+        padding-left: 40px;
+        padding-top: 30px;
+    }
+    .Pricing4-3 img {
+        padding-top: 60px;
+        padding-left: 18px;
+    }
+    .Pricing4-3 p {
+        padding-left: 40px;
+        padding-top: 60px;
+    }
+    .Pricing4-4 img {
+        padding-top: 90px;
+        padding-left: 18px;
+    }
+    .Pricing4-4 p {
+        padding-left: 40px;
+        padding-top: 90px;
+    }
+    .Pricing4-5 img {
+        padding-top: 120px;
+        padding-left: 18px;
+    }
+    .Pricing4-5 p {
+        padding-left: 40px;
+        padding-top: 120px;
+    }
+    .Pricing5 a {     
+        margin-top: 160px;
+        padding: 10px 27px;       
+        margin-left: 50px;      
+        font-size: 10px;
+    }
+    .Pricing4 { 
+        padding-bottom: 240px;
+    }
+    .questions1 h4 {
+        padding-top: 58px;
+        width: 528px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .questions1 a {
+        margin-left: 250px;
+    }
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    .manu-bg ul li {
+        padding: 0 10px !important;
+    }
+    .Pricing1 h2 {
+        padding-top: 58px;
+    }
+    .Pricing2 h3 {
+        padding-top: 18px;
+        padding-left: 18px;
+        font-size: 34px;
+    }
+    .Pricing2 h5 {
+        padding-top: 10px;
+        padding-left: 18px;
+        font-size: 20px;
+    }
+    .Pricing2 p{
+        width: 300px;
+        padding-left: 18px;
+        font-size: 14px;
+    }
+    .Pricing2-1 img {
+        padding-top: 20px;
+        padding-left: 18px;
+    }
+    .Pricing2-1 p {
+        width: 300px;
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    .Pricing2-2 img {
+        padding-top: 50px;
+        padding-left: 18px;
+    }
+    .Pricing2-2 p {
+        width: 300px;
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 50px;
+    }
+    .Pricing2-3 img {
+        padding-top: 80px;
+        padding-left: 18px;
+    }
+    .Pricing2-3 p {
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 80px;
+    }
+    .Pricing2-4 img {
+        padding-top: 110px;
+        padding-left: 18px;
+    }
+    .Pricing2-4 p {
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 110px;
+    }
+    .Pricing2-5 img {
+        padding-top: 140px;
+        padding-left: 18px;
+    }
+    .Pricing2-5 p {
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 140px;
+    }
+    .Pricing3 a {
+        position: absolute;
+        margin-top: 200px;
+        padding: 12px 27px;
+        margin-left: 75px;
+    }
+    .Pricing2 {
+        padding-bottom: 280px;
+    }
+    .Pricing4 h3 {
+        padding-top: 18px;
+        padding-left: 18px;
+        font-size: 34px;
+    }
+    .Pricing4 h5 {
+        padding-top: 10px;
+        padding-left: 18px;
+        font-size: 20px;
+    }
+    .Pricing4 p{
+        width: 300px;
+        padding-left: 18px;
+        font-size: 14px;
+    }
+    .Pricing4-1 img {
+        padding-top: 20px;
+        padding-left: 18px;
+    }
+    .Pricing4-1 p {
+        width: 300px;
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    .Pricing4-2 img {
+        padding-top: 50px;
+        padding-left: 18px;
+    }
+    .Pricing4-2 p {
+        width: 300px;
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 50px;
+    }
+    .Pricing4-3 img {
+        padding-top: 80px;
+        padding-left: 18px;
+    }
+    .Pricing4-3 p {
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 80px;
+    }
+    .Pricing4-4 img {
+        padding-top: 110px;
+        padding-left: 18px;
+    }
+    .Pricing4-4 p {
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 110px;
+    }
+    .Pricing4-5 img {
+        padding-top: 140px;
+        padding-left: 18px;
+    }
+    .Pricing4-5 p {
+        padding-left: 40px;
+        font-size: 14px;
+        padding-top: 140px;
+    }
+    .Pricing5 a {
+        position: absolute;
+        margin-top: 180px;
+        padding: 12px 27px;
+        margin-left: 75px;
+    }
+    .Pricing4{
+        padding-bottom: 260px;
+    }
+    .questions1 h4 {
+        padding-top: 128px;
+        font-size: 34px;
+    }
+    .footer2-1 h6 {
+        margin-left: 18px;
+    }
+    .footer2-1 a {
+        margin-left: 18px;
+    }
+    
+}
+@media(min-width:1200px) and (max-width:1399.98px){
+    .manu-bg ul li {
+        padding: 0 20px !important;
+    }
+    .Pricing3 a {
+        margin-left: 59px;
+    }
+    .Pricing4 a {
+        margin-left: 59px;
+    }
+}
+@media(min-width:1400px){
+
+}

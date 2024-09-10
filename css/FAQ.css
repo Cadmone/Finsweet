@@ -1,0 +1,335 @@
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+.body{
+    overflow: hidden;
+}
+/* nav css start */
+.manu-bg{
+    background-color: rgba(28, 30, 83, 1);
+}
+.manu-bg ul li{
+    padding: 0 30px !important;
+}
+.manu-bg ul li a{
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.manu-bg ul li a:hover{
+    color: greenyellow;
+}
+.manu1{
+    padding: 16px 48px;
+    border: 2px solid greenyellow;
+    border-radius: 100px;
+}
+.manu1:hover{
+    background-color: rgba(172, 255, 47, 0.589);
+} 
+.manu1 a{
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+/* nav css end */
+
+
+
+/* banner css start */
+#banner{
+    background-color: rgba(244, 246, 252, 1);
+}
+.banner1{
+    text-align: center;
+}
+.banner1 h6{
+    padding-top: 96px;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+.banner1 h2{
+    padding-top: 8px;
+    font-size: 48px;
+    font-weight: 600;
+    font-weight: 600;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+}
+.banner1 p{
+    padding-top: 32px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(40, 41, 56, 1);
+    font-family: 'Poppins', sans-serif;
+    width: 733px;
+    margin: 0 auto;
+    padding-bottom: 32px;
+}
+.banner1 a{
+    padding: 0 10px;
+    color: #000;
+    padding-bottom: 96px;
+}
+/* banner css end */
+
+
+/* all css start */
+#all{
+    background-color: rgb(247, 244, 244);
+}
+.all1 p{
+    text-align: center;
+    padding-top: 96px;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(36, 5, 242, 1);
+    padding-bottom: 48px;
+}
+.all1 a{
+    color: #000;
+    padding-left: 20px;
+    
+}
+.all-1 h2{
+    padding-top: 24px;
+    font-size: 38px;
+    font-weight: 600;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+
+}
+.all-1 p{
+    padding-top: 12px;
+    font-size: 16px;
+    font-weight:400;
+    color:  rgba(40, 41, 56, 1);
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 24px;
+}
+.all-1 a{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 64px;
+
+}
+.all-1 i{
+    padding-left: 10px;
+}
+.all2{
+    position: relative;
+    height: 380px;
+    width: 623px;
+    background: linear-gradient(rgba(244, 237, 225, 1),rgba(152, 177, 198, 1));
+}
+.all2 img{
+    position: absolute;
+    width: 88%;
+    top: 32px;
+    left: 39px;
+}
+.all3{
+    position: relative;
+    height: 380px;
+    width: 623px;
+    background: linear-gradient(rgba(255, 211, 175, 1),rgba(79, 86, 255, 1));
+}
+.all3 img{
+    position: absolute;
+    width: 88%;
+    top: 32px;
+    left: 39px;
+}
+.all4{
+    position: relative;
+    height: 380px;
+    width: 623px;
+    background: linear-gradient(rgba(238, 188, 167, 1),rgba(200, 200, 200, 1));
+}
+.all4 img{
+    position: absolute;
+    top: 32px;
+    left: 39px;
+}
+.all5{
+    position: relative;
+    height: 380px;
+    width: 623px;
+    background: linear-gradient(rgba(194, 231, 242, 1),rgba(152, 164, 255, 1));
+}
+.all5 img{
+    position: absolute;
+    top: 32px;
+    left: 39px;
+}
+.all6{
+    position: relative;
+    height: 380px;
+    width: 623px;
+    background: linear-gradient(rgba(194, 231, 242, 1),rgba(152, 164, 255, 1));
+}
+.all6 img{
+    position: absolute;
+    top: 32px;
+    left: 39px;
+}
+.all7{
+    position: relative;
+    height: 380px;
+    width: 623px;
+    background: linear-gradient(rgba(210, 214, 253, 1),rgba(214, 172, 234, 1));
+}
+.all7 img{
+    position: absolute;
+    top: 32px;
+    left: 39px;
+}
+.together{
+    text-align: center;
+}
+.together h2{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    width: 730px;
+    margin: 0 auto;
+}
+.together p{
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(40, 41, 56, 1);
+    text-align: center;
+    width: 562px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+.together a{
+    padding: 16px 66px;
+    background-color: rgba(252, 217, 128, 1);
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 100px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 128px;
+}
+.together a:hover{
+    background-color: red;
+    color: white;
+}
+
+/* all css end */
+
+
+/* footer css start */
+#footer{
+    background-color: rgba(28, 30, 83, 1);
+    position: relative;
+}
+.footer1 img{
+    padding-top: 100px;
+}
+.footer1 p{
+    padding-top: 22px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    width: 399px;
+    padding-bottom: 100px;
+}
+.footer2{
+    padding: 20px 20px;
+    background-color: rgba(252, 217, 128, 1);
+    position: relative;
+    padding-bottom: 100px;
+}
+.footer2-1{
+    position: absolute;
+}
+.footer2-1 h6{
+    padding-top: 18px;
+    margin-left: 38px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+
+}
+.footer2-1 a{
+     color: #000;
+    position: absolute;
+    margin-left: 38px;
+}
+
+.footer2-2{
+    position: absolute;
+    right: 30px;
+    top: 18;
+}
+.footer2-2 h6{
+    padding-top: 18px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+}
+.footer2-2 a{
+    color: #000;
+    
+}
+.footer3 h4{
+    padding-top: 96px;
+    font-size: 48px;
+    font-weight: 600;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.footer3 p{
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+
+}
+.footer-icon a{
+    color: white;
+    padding: 28px 15px;
+}
+
+/* footer css end */
+
+
+/* last css start */
+.manu-bg1 ul li{
+    padding: 0 20px;
+}
+
+.manu-bg1 ul li a{
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+.manu-bg1 a{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* last css end */

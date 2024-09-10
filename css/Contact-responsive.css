@@ -1,0 +1,242 @@
+@media(max-width:575.98px){
+    .manu-bg button{
+        border: 2px solid rosybrown;
+        color: rosybrown;
+    }
+    .manu-bg ul{
+        text-align: center;
+    }
+    .manu1{
+        text-align: center;
+        width: 50%;
+        margin: 0 auto;
+    }
+    .Contact1 h2 {
+        padding-top: 58px;
+        font-size: 24px;
+    }
+    .Contact1 p {
+        width: 100%;
+    }
+    .from1 {
+        height: 710px;
+        width: 100%;
+        margin-left: 2px;
+        color: #9b9898;
+      }
+    .from-1 {
+        margin-top: 20px;
+        margin-left: 5px;
+        width: 90%;
+    }
+    .from1 a {
+        margin-left:0 ;
+        padding: 16px 64px;
+        background-color: #000;
+        border-radius: 100px;
+        color: white;
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+      }
+
+    .from-2 {
+        margin-top: 20px;
+        margin-left: 5px;
+        width: 90%;
+    }
+    .from-3 {
+        margin-top: 20px;
+        margin-left: 5px;
+        width: 90%;
+    }
+    .from-4 {
+        margin-top: 20px;
+        margin-left: 5px;
+        width: 90%;
+    }
+    .from-5 {
+        margin-top: 20px;
+        margin-left: 5px;
+        width: 90%;
+    }
+    .from5 {
+        margin-top: 20px;
+        margin-left: 5px;
+        width: 100%;
+    }
+    .from {
+        width: 99%;
+        background-color: rgba(244, 246, 252, 1);
+        border: 2px solid rgb(191, 147, 147);
+      }
+      .footer2-1 h6 {
+        padding-top: 18px;
+        margin-left: 0;
+        font-size: 20px;
+      }
+    .footer2-1 a {
+        margin-left: 0;
+      }   
+
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .manu-bg button{
+        border: 2px solid rgb(255, 0, 0);
+        color: rgb(250, 3, 3);
+    }
+    .manu-bg ul{
+        text-align: center;
+    }
+    .manu1{
+        text-align: center;
+        width: 40%;
+        margin: 0 auto;
+    }
+    .Contact1 h2 {
+        padding-top: 58px;
+    }
+    .Contact1 p {
+        width: 100%;
+    }
+    .from1 {
+        height: 840px;
+        width: 100%;
+      }
+    .from-1 {
+        margin-left: 10%;
+      }
+    .from-2 {
+        margin-left: 10%;
+      }
+    .from-3 {
+        margin-left: 10%;
+      }
+    .from-4 {
+        margin-left: 10%;
+      }
+      .from5 {
+        height: 108px;
+        width: 90%;
+        margin-left: -20px;
+      }
+      .from1 a {
+        margin-left: 25%;
+      }
+    
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .manu-bg button{
+        border: 2px solid rgb(0, 255, 60);
+        color: rgb(3, 250, 28);
+    }
+    .manu-bg ul{
+        text-align: center;
+    }
+    .manu1{
+        text-align: center;
+        width: 40%;
+        margin: 0 auto;
+    }
+    .Contact1 h2 {
+        padding-top: 58px;
+    }
+    .from-3 {
+        margin-left: 77px;
+    }
+    .from-4 {
+        margin-left: 77px;
+    }
+    .from1 {
+        height: 800px;
+        width: 700px;
+    }
+    .from5 {
+        height: 100px;
+        width: 400px;
+    }
+    .from1 a {
+        margin-left: 200px;
+    }
+    .footer1 p{
+        width: 309px;
+    }
+    .footer2-1 h6 {
+        margin-left: 8px;
+        font-size: 16px;
+    }
+    .footer2-1 a {
+        margin-left: 8px;
+        font-size: 14px;
+    }
+    .footer2-2 h6 {
+        font-size: 16px;
+    }
+    .footer2-2 a {
+        font-size: 14px;
+    }
+}
+@media(min-width:991px) and (max-width:1199.98px){
+    .manu-bg ul li {
+        padding: 0 8px !important;
+    }
+    .Contact1 h2 {
+        padding-top: 58px;
+    }
+    .Contact1 p {
+        width: 60%;
+    }
+    .from {
+        width: auto;
+      }
+    .from1 {
+        height: 640px;
+        width: 800px;
+        background-color: rgba(244, 246, 252, 1);
+        margin-top: 64px;
+        border-radius: 10px;
+      }
+    .from-1 {
+        margin-left: 17px;
+    }
+    .from-2 {
+        margin-left: 17px;
+    }
+    .from-5 {
+        margin-left: 17px;
+    }
+    .from-3 {
+        margin-left: -50px;
+    }
+    .from-4 {
+        margin-left: -50px;
+    }
+    .from5 {
+        width: 85%;
+    }
+    .from1 a {
+        margin-left: 300px;
+    }
+
+    .footer2-1 h6 {
+        margin-left: 8px;
+        font-size: 20px;
+    }
+    .footer2-1 a {
+        margin-left: 8px;
+        font-size: 14px;
+    }
+    
+}
+@media(min-width:1200px) and (max-width:1399.98px){
+    .manu-bg ul li {
+        padding: 0 20px !important;
+    }
+    .from1 {
+        margin-left: -80px;
+    }
+}
+@media(min-width:1400px){
+    
+}

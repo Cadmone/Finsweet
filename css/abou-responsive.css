@@ -1,0 +1,538 @@
+@media(max-width:575.98px){
+    .manu-bg button{
+        border: 2px solid rgb(245, 2, 2);
+    }
+    .navbar-toggler:focus {
+        
+        box-shadow: 0 0 0 transparent;
+      }
+    .manu-bg i{
+        color: rgb(171, 3, 3);
+    }
+    .manu-bg ul{
+        text-align: center;
+    }
+    .manu1{
+        text-align: center;
+        width: 70%;
+        margin: 0 auto;
+    }
+    .about1 h6 {
+        text-align: center;
+      }
+    .about1 h2 {
+        font-size: 34px;
+        text-align: center;
+      }
+    .about1 p {
+        width: 97%;
+        padding-bottom: 37px;
+        text-align: center;
+      }  
+    .about2 img {
+        padding-top: 20px;
+        width: 100%;
+    }
+    .goal1 {
+        padding-left: 0px;
+        text-align: center;
+      }
+    
+    .goal2 p {
+        margin-left: 10px;
+        text-align: center;
+    }
+    .goal2 h3 {
+        padding-top: 20px;
+        font-size: 28px;
+        text-align: center;
+      }
+    .follow1 h2 {
+        padding-top: 50px;
+        font-size: 28px;
+      }
+    .follow2 img {
+        padding-top: 50px;
+        width: 80;
+        padding-left: 10%;
+      }
+    .follow2 h4 {
+        text-align: center;
+    }
+    .follow2 p {
+        padding-left: 0px;
+        width: 95%;
+        text-align: center;
+        padding-bottom: 20px;
+      }
+    .inspire1 h6 {
+        padding-top: 80px;
+        text-align: center;
+    }
+    .inspire1 h3 {
+        font-size: 28px;
+        text-align: center;
+      }
+    .inspire1 p {
+        width: 450px;
+    }
+    .inspire1 img {
+        width: 100%;
+    }
+    .inspire2 img {
+        width: 100%;
+        padding-left: 10px;
+    }
+    .inspire2 h6 {
+       text-align: center;
+    }
+    .inspire2 h3 {
+       text-align: center;
+    }
+    .inspire2 p {
+        width: 95%;
+        text-align: center;
+    }
+    .working1 h2 {
+        text-align: center;
+        font-size: 24px;
+        width: 97%;
+    }
+    
+    .working2 {
+        text-align: center;
+    }
+      .working2 h4 {
+       
+        padding-left: 0px;
+    } 
+    .working2 p {
+        padding-left: 0px;
+        padding-bottom: 18px;
+        width: 97%;
+      } 
+    .working3 img {
+        width: 100%;
+        height: 220px;
+    }
+    .team2-1 {
+        margin-left: 33%;
+        margin-top: 40px;
+      }
+    .team2 h4 {
+        width: 90%;
+        margin-top: -30px;
+        margin-left: 39%;
+      }
+    .team2 p {
+        margin: 280px 50%;
+    }
+    .team3-1{
+        width: 100%;
+    }
+    .team3-1 img {
+        margin-left: 32%;
+        margin-top: 30px;
+        padding: 0px 0px;
+      }
+
+
+
+}  
+@media(min-width:576px) and (max-width:767.98px){
+    .manu-bg button{
+        color: rgb(229, 245, 1);
+        border: 2px solid rgb(208, 244, 1);
+    }
+    .about1 h6 {
+        text-align: center;
+    }
+    .about1 h2 {
+        text-align: center;
+    }
+    .about1 p {
+        width: 500px;
+        text-align: center;
+        padding-bottom: 100px;
+    }
+    .about2 img {
+        padding-top: 50px;
+        width: 100%;
+    }
+    .goal1 h6 {
+        text-align: center;
+        margin-left: -50px;
+    }
+    .goal1 h3 {
+        text-align: center;
+        margin-left: -50px;
+    }
+    .goal1 p {
+        text-align: center;
+        width: 500px;
+        margin-left: -80px;
+    }
+    .goal2 h3 {
+        padding-top: 12px;
+    }
+    .follow1 h2 {
+        padding-top: 32px;
+        font-size: 48px;
+        width: 500px;
+    }
+    .follow2 img {
+        width: 100%;
+    }
+    .follow2 h4 {
+        text-align: center;
+    }
+    .follow2 p {
+        padding-bottom: 28px;
+        text-align: center;
+    }
+    .inspire1 h6 {
+        padding-top: 82px;
+        text-align: center;
+    }
+    .inspire1 h3 {
+        text-align: center;
+    }
+    .inspire1 p {
+        width: 523px;
+        text-align: center;
+    }
+    .inspire1 img {
+        padding-top: 30px;
+        padding-bottom: 28px;
+        width: 100%;
+    }
+    .inspire2 img {
+        padding-top: 18px;
+        width: 100;
+        margin-left: -120px;
+    }
+    .inspire2 h6 {
+        padding-top: 30px;
+        text-align: center;
+    }
+    .inspire2 h3 {
+        text-align: center;
+    }
+    .inspire2 p {
+        width: 500px;
+        text-align: center;
+    }
+    .working1 h2 {
+        padding-top: 28px;
+        font-size: 38px;
+        width: 550px;
+    }
+    .working2 img {       
+        padding-left: 238px;
+    }
+    .working2 h4 {
+        text-align: center;
+    }
+    .working2 p {
+        padding-left: 18px;
+        width: 490px;
+        text-align: center;
+    }
+    .working3 img {
+        padding-bottom: 58px;
+        width: 100%;
+    }
+    .team1 h2 {    
+        padding-top: 50px;
+    }
+    .team2-1 {
+        margin: 48px 160px;
+    }
+    .team2 h4 {     
+        padding-top: 250px;
+        margin: 0 180px;
+    }
+    .team2 p {
+        margin: 300px 220px;
+    }
+    .team3-1 img {
+        padding: 48px 160px;
+    }
+    .team3-1 h4 {
+        padding-top: 0px;
+    }
+}  
+@media(min-width:768px) and (max-width:991.98px){
+    .manu-bg button{
+        border: rgb(223, 4, 164);
+        color: rgb(223, 4, 164);
+    }
+    .manu1 {
+        padding: 16px 48px;
+        border: 2px solid rgb(47, 255, 113);
+        width: 28%;
+    }
+
+
+    .about1 h6 {
+        padding-top: 52px;
+        font-size: 12px;
+    }
+    .about1 h2 {
+        font-size: 24px;
+    }
+    .about1 p {
+        padding-top: 12px;
+        font-size: 12px;
+        width: 250px;
+        padding-bottom: 77px;
+    }
+    .about2 img {
+        padding-top: 58px;
+        width: 100%;
+    }
+    .goal1 h6 {
+        padding-top: 20px;
+        font-size: 12px;
+        margin-left: -70px;
+    }
+    .goal1 h3 {
+        font-size: 28px;
+        margin-left: -70px;
+    }
+    .goal1 p { 
+        font-size: 12px;
+        padding-bottom: 50px;
+        margin-left: -70px;
+    }
+    .goal2 h3 {
+        padding-top: 22px;
+        font-size: 28px;
+    }
+    .goal2 p {
+        padding-top: 6px;
+        font-size: 12px;
+    }
+    .follow2 h4 {     
+        font-size: 34px;
+        padding-left: 50px;
+    }
+    .follow2 p {
+        padding-bottom: 28px;
+        padding-left: 30px;
+        text-align: center;
+    }
+    .inspire1 h6 {
+        padding-top: 82px;
+        text-align: center;
+    }
+    .inspire1 h3 {
+        text-align: center;
+    }
+    .inspire1 p {
+        width: 683px;
+        text-align: center;
+    }
+    .inspire1 img {
+        padding-top: 30px;
+        padding-bottom: 28px;
+        width: 100%;
+    }
+    .inspire2 img {
+        padding-top: 18px;
+    }
+    .inspire2 h6 {
+        padding-top: 30px;
+        text-align: center;
+    }
+    .inspire2 h3 {
+        text-align: center;
+    }
+    .inspire2 p {
+        width: 680px;
+        text-align: center;
+    }
+    .working2 img {
+        padding-top: 20px;
+        padding-left: 18px;
+    }
+    .working2 h4 {
+        padding-top: 18px;
+        padding-left: 18px;
+        font-size: 18px;
+    }
+    .working2 p {
+        padding-left: 18px;
+        padding-top: 12px;
+        font-size: 12px;
+        width: 214px;
+        padding-bottom: 20px;
+    }
+    .working3 img {
+        padding-bottom: 50px;
+        width: 100%;
+    }
+    .team1 h2 {
+        padding-top: 28px;
+        font-size: 58px;
+    }
+    .team2-1 {
+        margin: 48px 260px;
+    }
+    .team2 h4 {
+        margin: 0 270px;
+    }
+    .team2 p {
+        margin: 310px 320px;
+    }
+    .team3-1 img {
+        padding: 48px 270px;
+    }
+}  
+@media(min-width:992px) and (max-width:1199.98px){
+    .manu-bg ul li {
+        padding: 0 10px !important;
+    }
+    .about2 img {
+        width: 100%;
+    }
+    .about1 h2 {      
+        font-size: 38px;
+    }
+    .about1 p {
+        width: 400px;
+        padding-bottom: 57px;
+    }
+    
+    .goal1 h6 {
+        margin-left: -50px;
+    }
+    .goal1 h3 {
+        margin-left: -50px;
+    }
+    .goal1 p {
+        margin-left: -50px;
+    }
+    .goal2 h3 {
+        padding-top: 80px;
+        font-size: 34px;
+    }
+    .follow2 img {
+        width: 100%;
+    }
+    .inspire1 h3 {
+        font-size: 34px;
+    }
+    .inspire1 p {
+        width: 500px;
+    }
+    .inspire2 img {
+        padding-top: 188px;
+        width: 100%;
+    }
+    .inspire1 img {
+        width: 100%;
+    }
+    .inspire2 h6 {
+        margin-left: 1px;
+    }
+    .inspire2 p {
+        width: 480px;
+    }
+    .working2 img {
+        padding-top: 30px;
+        padding-left: 18px;
+    }
+    .working2 h4 {
+        padding-top: 18px;
+        padding-left: 18px;
+        font-size: 20px;
+    }
+    .working2 p {
+        padding-left: 18px;
+        padding-top: 16px;
+        font-size: 14px;
+        width: 274px;
+        padding-bottom: 28px;
+    }
+    .working3 img {
+        padding-bottom: 58px;
+        width: 100%;
+    }
+    .team2-1 {
+        margin: 28px 24px;
+    }
+    .team2 h4 {
+        padding-top: 220px;
+        margin: 0 35px;
+    }
+    .team2 p {
+        margin: 250px 90px;
+    }
+    .team2 {
+        padding-bottom: 320px;
+    }
+    .team3-1 img {
+        padding: 28px 24px;
+    }
+    .team3-1 h4 {
+        padding-top: 1px;
+    }
+
+}  
+@media(min-width:1200px) and (max-width:1399.98px){
+    .manu-bg ul li {
+        padding: 0 20px !important;
+    }
+    .about2 img {
+        width: 100%;
+    }
+    .goal2 h3 {
+        padding-top: 80px;
+    }
+    .follow2 img {
+        width: 100%;
+    }
+    .inspire2 img {
+        width: 100%;
+    }
+    .inspire1 img {
+        width: 100%;
+    }
+    .inspire2 h6 {
+        margin-left: 1px;
+    }
+    .inspire2 p {
+        width: 550px;
+    }
+    .working2 p {
+        width: 334px;
+        padding-bottom: 28px;
+    }
+    .working3 img {
+        padding-bottom: 58px;
+        width: 100%;
+    }
+    .team2-1 {
+        margin: 28px 47px;
+    }
+    .team2 h4 {
+        padding-top: 220px;
+        margin: 0 55px;
+    }
+    .team2 p {
+        margin: 250px 90px;
+    }
+    .team2 {
+        padding-bottom: 320px;
+    }
+    .team3-1 img {
+        padding: 28px 47px;
+    }
+    .team3-1 h4 {
+        padding-top: 1px;
+    }
+}  
+@media(min-width:1400px){
+
+}

@@ -1,0 +1,460 @@
+@media(max-width:575.98px){
+    .manu-bg button{
+        border: 2px solid rosybrown;
+        color: rosybrown;
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      }
+    .manu1 {
+        width: 60%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Finsweet1 h5 {
+        padding-top: 58px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .Finsweet1 h2 {
+        font-size: 34px;
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+      }
+    .Finsweet1 p {
+        font-size: 14px;
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Finsweet2-1 {
+        height: 280px;
+        width: 100%;
+        margin-left: 0;
+    }
+  
+    .Finsweet2-1 img {
+        top: 30px;
+        left: 25px;
+        width: 89%;
+    }
+    .Finsweet3 {
+        text-align: center;
+        margin: 0 auto;
+        width: 100%;
+    }
+    
+    .Finsweet3 p {
+        padding-top: 18px;
+        padding-bottom: 1px;
+        text-align: center;
+    }
+    .Finsweet3 a {
+        text-align: center;
+        padding-left: 0;
+        margin: 0 auto;
+    }
+    .Finsweet4 {
+        border: transparent;
+    }
+    .about1 h2 {
+        padding-top: 56px;
+        text-align: center;
+    }
+    .about1 p {
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .about2 li {
+        font-size: 14px;
+        margin-left: 20px;
+    }
+    .about3 {
+        margin-top: 34px;
+        height: 270px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .about3 img {
+        top: 22px;
+        left: 27px;
+        width: 88%;
+    }
+    .how1 h2 {
+        padding-top: 46px;
+        font-size: 30px;
+        text-align: center;
+    }
+    .how1 p {
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .how2 li {
+        font-size: 14px;
+        margin-left: 20px;
+    }
+    .how3 p {
+        margin-top: 56px;
+        padding-top: 10px;
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .how3 a {
+        font-size: 10px;
+        font-weight: 500;
+        color: #000;
+        font-family: 'Poppins', sans-serif;
+        padding-left: 20px;
+    }
+    .together1 h2 {
+        width: 100%;
+        padding-top: 28px;
+        font-size: 24px;
+      }
+    .together1 p {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .footer2-1 h6 {
+        padding-top: 18px;
+        margin-left: 0;
+        font-size: 20px;
+      }
+    .footer2-1 a {
+        margin-left: 0;
+      }  
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .manu-bg button{
+        border: 2px solid rgb(255, 0, 0);
+        color: rgb(250, 3, 3);
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      }
+    .manu1 {
+        width: 40%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    
+    .Finsweet1 h5 {
+        padding-top: 88px;
+        font-size: 22px;
+        text-align: center;
+    }
+    .Finsweet1 h2 {
+        font-size: 34px;
+        width: 500px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Finsweet1 p {
+        font-size: 14px;
+        width: 500px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Finsweet2-1 {
+        height: 331px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .Finsweet2-1 img {
+        top: 32px;
+        left: 25px;
+        width: 91%;
+    }
+    .Finsweet3 p {
+        padding-top: 38px;
+        font-size: 14px;
+    }
+    .Finsweet3 a {
+        font-size: 10px;
+        margin-top: -30px;
+    }
+    .Finsweet4 {
+        padding-bottom: 12px;
+    }
+    .about1 h2 {
+        padding-top: 26px;
+        font-size: 34px;
+    }
+    .about1 p {
+        width: 100%;
+    }
+    .about3 {
+        height: 330px;
+        width: 100%;
+    }
+    .about3 img {
+        top: 30px;
+        left: 30px;
+        width: 90%;
+    }
+    .how1 h2 {
+        padding-top: 26px;
+        font-size: 34px;
+    }
+    .how1 p {
+        width: 100%;
+    }
+    .how3 p {
+        margin-top: 56px;
+        padding-top: 10px;
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .how3 a {
+        font-size: 10px;
+        padding-left: 20px;
+    }
+    .together1 h2 {
+        width: 500px;
+        margin: 0 auto;
+        padding-top: 88px;
+        font-size: 34px;
+    }
+    .together1 p {
+        padding-top: 20px;
+        text-align: center;
+        font-size: 16px;
+        font-weight: 400;
+        color: rgba(40, 41, 56, 1);
+        width: 100%;
+        margin: 0 auto;
+        padding-bottom: 40px;
+      }
+    
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .manu-bg button{
+        border: 2px solid rgb(0, 255, 60);
+        color: rgb(3, 250, 28);
+    }
+    .manu-bg ul li a {
+        text-align: center;
+      }
+    .manu1 {
+        width: 30%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Finsweet1 h5 {
+        padding-top: 88px;
+        font-size: 24px;
+        text-align: center;
+    }
+    .Finsweet1 h2 {
+        font-size: 34px;
+        width: 600px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Finsweet1 p {
+        font-size: 14px;
+        width: 600px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .Finsweet2-1 {
+        height: 440px;
+        width: 690px;
+    }
+    .Finsweet2-1 img {
+        top: 35px;
+        left: 40px;
+        width: 90%;
+    }
+    .Finsweet3 p {
+        padding-top: 38px;
+        font-size: 14px;
+    }
+    .Finsweet3 a {
+        font-size: 14px;
+        margin-top: -30px;
+    }
+    .Finsweet4 {
+        padding-bottom: 22px;
+    }
+    .about1 h2 {
+        padding-top: 26px;
+        font-size: 34px;
+    }
+    .about1 p {
+        width: 700px;
+    }
+    .about3 {
+        height: 440px;
+        width: 690px;
+    }
+    .about3 img {
+        top: 35px;
+        left: 40px;
+        width: 90%;
+    }
+    .how1 p {
+        width: 700px;
+    }
+    .how3 p {
+        margin-top: 56px;
+        padding-top: 20px;
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .how3 a {
+        font-size: 16px;
+        padding-left: 20px;
+    }
+    .together1 h2 {
+        width: 700px;
+        padding-top: 58px;
+        font-size: 34px;
+    }
+    .footer1 p {
+        width: 300px;
+    }
+    .footer2-1 h6 {
+        margin-left: 8px;
+        font-size: 16px;
+    }
+    .footer2-1 a {
+        margin-left: 8px;
+        font-size: 14px;
+    }
+    .footer2-2 h6 {
+        font-size: 16px;
+    }
+    .footer2-2 a {
+        font-size: 14px;
+    }
+}
+@media(min-width:991px) and (max-width:1199.98px){
+    .manu-bg ul li {
+        padding: 0 8px !important;
+    }
+    .Finsweet1 h5 {
+    padding-top: 88px;
+    font-size: 24px;
+    text-align: center;
+    margin: 0 auto;
+    }
+    .Finsweet1 h2 {
+    font-size: 38px;
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    }
+    .Finsweet1 p {
+    font-size: 14px;
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    }
+    .Finsweet2-1 {
+        height: 500px;
+        width: 800px;
+    }
+    .Finsweet2-1 img {
+        top: 42px;
+        left: 42px;
+        width: 90%;
+    }
+    .Finsweet3 p {
+        padding-top: 38px;
+        font-size: 14px;
+    }
+    .Finsweet3 a {
+        font-size: 14px;
+        margin-top: -30px;
+    }
+    .Finsweet4 {
+        padding-bottom: 22px;
+    }
+    .about1 h2 {
+        padding-top: 46px;
+    }
+    .about1 p {
+        width: 700px;
+    }
+    .about2 li {
+        width: 700px;
+    }
+    .about3 {
+        height: 450px;
+        width: 700px;
+    }
+    .about3 img {
+        top: 42px;
+        left: 42px;
+        width: 90%;
+    }
+    .how1 h2 {
+        padding-top: 46px;
+    }
+    .how1 p {
+        width: 700px;
+    }
+    .how2 li {
+        width: 700px;
+    }
+    .how3 p {
+        margin-top: 56px;
+        padding-top: 20px;
+        font-size: 18px;
+        padding-bottom: 20px;
+    }
+    .how3 a {
+        font-size: 14px;
+        padding-left: 20px;
+    }
+    .together1 h2 {
+        width: 650px;
+    }
+    .footer2-1 h6 {
+        margin-left: 8px;
+    }
+    .footer2-1 a {
+        margin-left: 8px;
+    }
+}
+@media(min-width:1200px) and (max-width:1399.98px){
+    .manu-bg ul li {
+        padding: 0 20px !important;
+    }
+    .Finsweet1 h2 {
+        width: 750px;
+    }
+    .Finsweet2-1 {
+        height: 550px;
+        width: 900px;
+    }
+    .Finsweet2-1 img {
+        top: 42px;
+        left: 48px;
+        width: 90%;
+    }
+    .Finsweet3 a {
+        font-size: 20px;
+    }
+    .about2 li {
+        width: 700px;
+    }
+    .how2 li {
+        width: 700px;
+    }
+    .how3 a {
+        font-size: 16px;
+        padding-left: 20px;
+    }
+    .together1 h2 {
+        width: 604px;
+        font-size: 38px;
+    }
+}
+@media(min-width:1400px){
+    
+}
