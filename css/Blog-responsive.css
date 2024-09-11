@@ -38,6 +38,20 @@
         padding-top: 1px;
         font-size: 20px;
     }
+    .footer1 p {
+        width: 100%;
+      }
+      .footer2-1 h6 {
+        padding-top: 18px;
+        margin-left: 0px;
+        font-size: 24px;
+        font-weight: 500;
+        color: #000;
+        font-family: 'Poppins', sans-serif;
+      }  
+      .footer2-1 a {
+        margin-left: 0;
+      }    
 }
 @media(min-width:576px) and (max-width:767.98px){
     .manu-bg button{
